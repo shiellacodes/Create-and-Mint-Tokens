@@ -9,7 +9,7 @@ This program is written in Solidity, a programming language used for developing 
 ### Executing Program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file: [https://github.com/MichaelJaaa/Metacrafters_Project_CreateAndMintToken/blob/main/CreateAndMintToken.sol](https://github.com/shiellacodes/Create-and-Mint-Tokens.git)
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file: [https://github.com/shiellacodes/Metacrafters_Project_CreateAndMintToken/blob/main/CreateAndMintToken.sol](https://github.com/shiellacodes/Create-and-Mint-Tokens.git)
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.9" (or another compatible version), and then click on the "Compile Token.sol" button.
 
